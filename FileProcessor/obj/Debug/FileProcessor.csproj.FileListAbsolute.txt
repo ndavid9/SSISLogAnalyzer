@@ -1,0 +1,5 @@
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\FileProcessor\bin\Debug\FileProcessor.dll
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\FileProcessor\bin\Debug\FileProcessor.pdb
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\FileProcessor\obj\Debug\FileProcessor.dll
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\FileProcessor\obj\Debug\FileProcessor.pdb
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\FileProcessor\obj\Debug\FileProcessor.csprojResolveAssemblyReference.cache

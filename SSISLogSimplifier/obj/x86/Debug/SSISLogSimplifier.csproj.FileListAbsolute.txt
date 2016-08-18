@@ -1,0 +1,9 @@
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\SSISLogSimplifier\bin\Debug\SSISLogSimplifier.exe.config
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\SSISLogSimplifier\bin\Debug\SSISLogSimplifier.exe
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\SSISLogSimplifier\bin\Debug\SSISLogSimplifier.pdb
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\SSISLogSimplifier\obj\x86\Debug\SSISLogSimplifier.Simplifier.resources
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\SSISLogSimplifier\obj\x86\Debug\SSISLogSimplifier.Properties.Resources.resources
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\SSISLogSimplifier\obj\x86\Debug\SSISLogSimplifier.csproj.GenerateResource.Cache
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\SSISLogSimplifier\obj\x86\Debug\SSISLogSimplifier.exe
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\SSISLogSimplifier\obj\x86\Debug\SSISLogSimplifier.pdb
+C:\Users\m1023759\Documents\Visual Studio 2010\Projects\SSISLogSimplifier\SSISLogSimplifier\obj\x86\Debug\SSISLogSimplifier.csprojResolveAssemblyReference.cache
